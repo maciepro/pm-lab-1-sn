@@ -17,7 +17,7 @@ Odpowiedź:  Program powoduje zmiane stanu diody wbudowanej arduino
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie ma znaczenia czy rezystor będzie przed diodą lub za nią. Wystarczy by znajdował się z nią w szeregu.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
