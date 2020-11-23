@@ -33,7 +33,7 @@ Odpowiedź:  Zbyt nagłe zmiany stanu świateł
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ... 
+Odpowiedź:  Można sterować stanem niskim diod LED ponieważ można go przyrównać do przekaźnika a przekaźnik może być załączany podaniem stanu wysokiego lub niskiego (Zwaraciem do masy)
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
